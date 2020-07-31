@@ -27,7 +27,6 @@ public class Solution {
                 }
             else
                  count=0;
-                 
         n=n/2;
             
         }
